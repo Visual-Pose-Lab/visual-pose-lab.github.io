@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The homepage of Visual Pose Lab is online @ [visual-pose-lab.github.io](https://visual-pose-lab.github.io/).
+:tada: :tada: :tada: The homepage of Visual Pose Lab is online @ [visual-pose-lab.github.io](https://visual-pose-lab.github.io/).

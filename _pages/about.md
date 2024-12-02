@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <p><b>Visual Pose Lab</b></p>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.

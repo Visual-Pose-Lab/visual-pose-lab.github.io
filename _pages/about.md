@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visual Pose Lab
+subtitle: <p><b>Visual Pose Lab</b></p>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:

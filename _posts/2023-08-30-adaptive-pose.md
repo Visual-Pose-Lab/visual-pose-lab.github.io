@@ -11,16 +11,15 @@ categories: paper-reading
 # AdaptivePose++: A Powerful Single-Stage Network for Multi-Person Pose Regression
 ## adaptive point 自适应点
 
-![AdaptivePoints](../assets/img/attachment/AdaptivePoints20230730180308.png)
+{% include figure.liquid loading="eager" path="assets/img/attachment/AdaptivePoints20230730180308.png" class="img-fluid rounded z-depth-1" %}
 
 + (a) 传统的表示方法：top-down&bottom-up
 + (b) CenterNet提出的center-to-joint身体表示
 + (c) SPM提出的分等级身体表示法
 + (d) adaptIve points
 对比结果(网络模型不相同)：
-<div align="center">
-  <img src="../assets/img/attachment/AdaptivePoseComparison20230730182635.png" width="50%" height="50%" align=center />
-</div>
+
+{% include figure.liquid loading="eager" path="assets/img/attachment/AdaptivePoseComparison20230730182635.png" class="img-fluid rounded z-depth-1" %}
 
 1) 提出的点集表示在自适应部位相关点处引入了额外的特征，与有限的中心表示相比，这些特征能够编码更有信息的特征，用于灵活的姿态。The proposed point set representation introduces additional features at adaptive part related points, which are able to encode more informative features for flexible pose compared with limited center representation. 
 2) 自适应部分相关点作为中继节点，可以在单次前向传递中更有效地建模人类实例与相应关键点之间的关联。The adaptive part related points serves as relay nodes can more effectively model the associations between human instance and corresponding keypoints in a single-forward pass.
@@ -52,7 +51,9 @@ $C_{inst} → \{P_{head}, P_{sho}, P_{la}, P_{ra}, P_{hip}, P_{ll}, P_{rl}\} →
 
 
 ## FrameWork
-<div align="center">
+{% include figure.liquid loading="eager" path="assets/img/attachment/AdaptivePoseFramework20230731221909.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/attachment/AdaptivePoseFramework20230801134203.png" class="img-fluid rounded z-depth-1" %}
+<!-- <div align="center">
   <img src="../assets/img/attachment/AdaptivePoseFramework20230731221909.png" width="70%" height="70%" align=center />
   <img src="../assets/img/attachment/AdaptivePoseFramework20230801134203.png" width="70%" height="70%" align=center />
-</div>
+</div> -->

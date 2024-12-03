@@ -23,4 +23,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Visual Pose Lab (ViP Lab) focuses on human-centric multimodal learning. Our laboratory is dedicated to advancing the understanding and application of human pose analysis by integrating various visual and sensor-based modalities.
+Visual Pose Lab (ViP Lab) specializes in human-centric multimodal learning. Our laboratory is dedicated to advancing the understanding and application of human posture analysis by integrating various visual and sensor data. Our research encompasses human pose estimation, hand pose estimation, gait analysis, and more.

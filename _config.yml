@@ -172,10 +172,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   # - name: medium.com
   #   rss_url: https://medium.com/@al-folio/feed
-  - name: HiLab 学术动态
-    posts:
-      - url: https://mp.weixin.qq.com/s/B5FUnd1-tsYO1ZyAo9uZ9A
-        published_date: 2022-04-30
+  # - name: HiLab 学术动态
+  #   posts:
+  #     - url: https://mp.weixin.qq.com/s/B5FUnd1-tsYO1ZyAo9uZ9A
+  #       published_date: 2022-04-30
 
 # -----------------------------------------------------------------------------
 # Newsletter

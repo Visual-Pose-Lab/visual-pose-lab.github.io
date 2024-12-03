@@ -1,5 +1,8 @@
 "POSE":
-  color: "#00369f"
+  color: "#00bfff"
 
 "Vision":
   color: "#009f36"
+
+"MED":
+  color: "#ffa500"
